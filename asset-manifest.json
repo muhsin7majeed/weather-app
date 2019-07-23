@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.1e6e6c49.chunk.css",
+    "main.js": "/weather-app/static/js/main.458f30f5.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.458f30f5.chunk.js.map",
+    "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
+    "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
+    "static/js/2.06974016.chunk.js": "/weather-app/static/js/2.06974016.chunk.js",
+    "static/js/2.06974016.chunk.js.map": "/weather-app/static/js/2.06974016.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.800622d0402c711a0a90da4b480f25e2.js": "/weather-app/precache-manifest.800622d0402c711a0a90da4b480f25e2.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.1e6e6c49.chunk.css.map": "/weather-app/static/css/main.1e6e6c49.chunk.css.map",
+    "static/media/clear-day.gif": "/weather-app/static/media/clear-day.49d27cc7.gif",
+    "static/media/clear-night.gif": "/weather-app/static/media/clear-night.222d4ebd.gif",
+    "static/media/clouds.gif": "/weather-app/static/media/clouds.b6903f6c.gif",
+    "static/media/default.jpg": "/weather-app/static/media/default.a64a0212.jpg",
+    "static/media/fog.gif": "/weather-app/static/media/fog.b760f2ce.gif",
+    "static/media/partly-cloudy-day.gif": "/weather-app/static/media/partly-cloudy-day.b30bba5b.gif",
+    "static/media/partly-cloudy-night.gif": "/weather-app/static/media/partly-cloudy-night.99cb646d.gif",
+    "static/media/rain.gif": "/weather-app/static/media/rain.c1a93a1d.gif",
+    "static/media/sleet.gif": "/weather-app/static/media/sleet.78a2a10a.gif",
+    "static/media/snow.gif": "/weather-app/static/media/snow.cb5d8d80.gif",
+    "static/media/wind.gif": "/weather-app/static/media/wind.92819ee7.gif"
+  }
+}
